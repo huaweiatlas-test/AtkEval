@@ -40,7 +40,7 @@ static uint32_t g_SendCount = 0;
 static uint32_t g_ModelWidth = 0;
 static uint32_t g_ModelHeight = 0;
 
-// 定义message_type字符创
+// 定义message_type字符串
 static const std::string message_type_engine_trans = "EngineTransT";
 static const std::string message_type = "EngineTransNewT";
 
